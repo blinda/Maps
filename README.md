@@ -18,4 +18,4 @@ I went there in November 2018 with a companion and of course Dwarf-spotting quic
 
 However, we were never able to find a satisfying map of the little dwarves. Thus, when we came home I decided to code one using Folium and the GPS coordinates found on Polish Wikipedia. Use it wisely!
 
-You can check it out in the Jupyter notebook file [here](https://github.com/blinda/Maps/blob/master/Dwarves_of_Wroclav.ipynb).
+You can check it out in the Jupyter notebook file [here](https://github.com/blinda/Maps/blob/master/Dwarves_of_Wroclav.ipynb) and at this [link](https://raw.githack.com/blinda/Maps/master/wroslaw.html?fbclid=IwAR3uCwjgvjMxGCdRcsjGDvsygVCEaBOER8bm4tqe2tnJUFhzAiz8KQlrU8w).
