@@ -13,7 +13,7 @@ Have you ever been to Wroclav? It's a cute little University city on the Oder ri
 
 I went there in November 2018 with a companion and of course Dwarf-spotting quickly became our main activity. The person to spot the most dwarves would win a pizza with beer from the best pizza place in Munich. Obviously I won, with a crushing 144 dwarves-sightings vs. the 96 of my companion. I think the full experience can be summarized by this picture:
 
-<img src="IMG_4298.JPG" alt="Drawing" style="width: 300px;"/>
+<img src="IMG_4298.JPG" alt="Drawing" style="width: 150px;"/>
 
 
 However, we were never able to find a satisfying map of the little dwarves. Thus, when we came home I decided to code one using Folium and the GPS coordinates found on Polish Wikipedia. Use it wisely!
