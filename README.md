@@ -15,6 +15,7 @@ I went there in November 2018 with a companion and of course Dwarf-spotting quic
 
 <img src="IMG_4298.JPG" alt="Drawing" style="width: 50px;"/>
 
+![](IMG_4298.JPG | width=50)
 
 However, we were never able to find a satisfying map of the little dwarves. Thus, when we came home I decided to code one using Folium and the GPS coordinates found on Polish Wikipedia. Use it wisely!
 
