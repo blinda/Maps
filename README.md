@@ -18,4 +18,4 @@ I went there in November 2018 with a companion and of course Dwarf-spotting quic
 
 However, we were never able to find a satisfying map of the little dwarves. Thus, when we came home I decided to code one using Folium and the GPS coordinates found on Polish Wikipedia. Use it wisely!
 
-[](wroslav.html)
+[You can check it out here.](wroslav.html)
